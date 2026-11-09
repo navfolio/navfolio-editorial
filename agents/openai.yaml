@@ -1,0 +1,4 @@
+interface:
+  display_name: "Navfolio Editorial · 静谧编排"
+  short_description: "源自 Navfolio 的纸感、柔和色彩与清晰排版，可跨技术栈应用于内容型界面"
+  default_prompt: "使用 $navfolio-editorial 为当前界面应用静谧编辑式设计，结合已有内容和技术栈调整排版、色彩与布局。"
